@@ -10,6 +10,7 @@ I am friendly and I enjoy working in a team. I am a quick learner. I want to bec
 ## Skills:
 * HTML (basics)
 * CSS(basics)
+
 ## Code example:
 ~~~
 function multiply(a, b){
