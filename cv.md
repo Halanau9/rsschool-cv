@@ -22,5 +22,6 @@ No work expirience
 ## Education
 * Belarusian State University of Food and Chemical Technologies (Automation engineer)
 * RS school (begining)
+
 ## Language:
 English A1
